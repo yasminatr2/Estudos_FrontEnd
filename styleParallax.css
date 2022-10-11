@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+}
+
+
+
+.section1{
+    position:absolute;
+  top:50%;
+  width:100%;
+ 
+  text-align:center;
+  color:aliceblue;
+  font-size:27px;
+  letter-spacing:8px;
+  font-weight: bold;
+  background-color: brown;
+
+    
+}
+
+.parallax {
+    /* Coloque a imagem a ser usada como background */
+    background-image: url("img/view-of-new-york-city-usa.jpg");
+   
+     
+    /* Defina uma altura para a visão que o usuário terá da imagem */
+    min-height: 900px;
+     
+    /* defina o background como fixo e posicione a imagem */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    }
+
+    .section{
+        text-align:center;
+        padding:50px 80px;
+        background-color: brown;
+        color: beige;
+        font-size: 20px;
+      }
+    .parallax {
+        /* Coloque a imagem a ser usada como background */
+        background-image: url("img/view-of-new-york-city-usa.jpg");
+       
+         
+        /* Defina uma altura para a visão que o usuário terá da imagem */
+        min-height: 900px;
+         
+        /* defina o background como fixo e posicione a imagem */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        }
+
+    .parallax1 {
+        /* Coloque a imagem a ser usada como background */
+        background-image: url("img/beautiful-cityscape-of-an-urban-city-shot-from-above.jpg");
+       
+         
+        /* Defina uma altura para a visão que o usuário terá da imagem */
+        min-height: 900px;
+         
+        /* defina o background como fixo e posicione a imagem */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        }
+
+    .parallax2 {
+            /* Coloque a imagem a ser usada como background */
+            background-image: url("img/high-angle-shot-of-a-beautiful-cityscape-at-sunset-in-new-york-city-usa.jpg");
+           
+             
+            /* Defina uma altura para a visão que o usuário terá da imagem */
+            min-height: 900px;
+             
+            /* defina o background como fixo e posicione a imagem */
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            }
+.rodape{
+    text-align:center;
+    padding:50px 80px;
+    background-color: brown;
+    color: beige;
+    font-size: 20px;
+}            
