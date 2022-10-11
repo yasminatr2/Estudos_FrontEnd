@@ -1,0 +1,1 @@
+Essa pasta tem como objetivo iniciar projetos simples de HTML 5, CSS e JAVASCRIPT.
